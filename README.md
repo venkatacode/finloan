@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `json-server --watch services.json`
+To run the Backend this command need to be given
+
+### `npm i`
+Installs all the node modules that are given in the package.json
 
 ### `npm start`
 
