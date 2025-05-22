@@ -1,0 +1,13 @@
+.img{
+    background-image: url('../assets/loan.jpg');
+    height: 50vh;
+    background-position: center;
+    background-size: cover;  
+}
+/* .container{
+    margin-top: 20%;
+} */
+ .ft{
+    margin-top:100%
+ }
+
